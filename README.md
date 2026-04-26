@@ -1,4 +1,6 @@
-# OWRXP-DNX-noVNC
+![DNX Waterfall](https://img.shields.io/badge/Waterfall-DNX-blue)
+![noVNC](https://img.shields.io/badge/noVNC-Enabled-purple)
+![Remote UI](https://img.shields.io/badge/Remote-Access-brightgreen)# OWRXP-DNX-noVNC
 
 Public OpenWebRX+ DNX image variant with an integrated noVNC desktop layer.
 
