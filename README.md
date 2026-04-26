@@ -16,6 +16,18 @@ Use this repo if you want the DNX OpenWebRX+ overlay plus a public noVNC access 
 - documented default noVNC password
 - no private LoRa station data
 
+## DNX Waterfall Highlights
+
+This noVNC variant includes the same DNX waterfall family as the base project:
+
+- `Standard`
+- `3D-Modern`
+- `Std/3DM`
+- `3D-Old`
+- `Flip/Flop`
+
+So users can choose between the lean web-only image and the desktop-enabled image without losing the newer waterfall presentation.
+
 ## Default Ports
 
 - OpenWebRX web UI: `8073`
@@ -38,6 +50,16 @@ Compared with the base `OWRXP-DNX` repo, this image adds:
 - `noVNC`
 - a lightweight X11 session
 - a helper terminal inside the VNC desktop
+
+## Standalone Waterfall Option
+
+The waterfall work can also be published later as a separate repo or patch tool for people who only want:
+
+- the DNX waterfall modes
+- without the full DNX runtime overlay
+- and without the noVNC layer
+
+That would fit well as a future companion repo such as `OWRXP-DNX-Waterfall`.
 
 ## Public Safety
 
@@ -74,3 +96,17 @@ This repo is the public noVNC companion variant. It is intentionally separate so
 
 - base image without noVNC
 - noVNC image with the extra desktop layer
+
+---
+
+## ?? Included Third-Party Plugins
+
+This setup includes additional OpenWebRX+ plugins that are not developed by me:
+
+- https://github.com/0xAF/openwebrxplus-plugins/tree/main/receiver/colorful_spectrum
+- https://github.com/0xAF/openwebrxplus-plugins/tree/main/receiver/freq_scanner
+
+All credit goes to the original authors.
+
+These plugins are included for convenience and integration with this environment.
+
