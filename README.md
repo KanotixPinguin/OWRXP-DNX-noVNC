@@ -25,7 +25,25 @@ This noVNC variant includes the same DNX waterfall family as the base project:
 - `Std/3DM`
 - `3D-Old`
 - `Flip/Flop`
+---
 
+## 🌊 DNX Waterfall (Included)
+
+This project includes the DNX Waterfall system.
+
+For full details and standalone version:
+👉 https://github.com/KanotixPinguin/OWRXP-DNX-Waterfall
+
+### 📸 Preview
+
+#### 🎨 3D Modern
+![3D Modern](https://raw.githubusercontent.com/KanotixPinguin/OWRXP-DNX-Waterfall/main/docs/images/waterfall-3d-modern.png)
+
+#### 🧩 Split Mode (Standard + 3D)
+![Split](https://raw.githubusercontent.com/KanotixPinguin/OWRXP-DNX-Waterfall/main/docs/images/waterfall-split.png)
+
+#### 🧊 3D Old
+![3D Old](https://raw.githubusercontent.com/KanotixPinguin/OWRXP-DNX-Waterfall/main/docs/images/waterfall-3d-old.png)
 So users can choose between the lean web-only image and the desktop-enabled image without losing the newer waterfall presentation.
 
 ## Default Ports
