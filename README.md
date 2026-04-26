@@ -17,7 +17,17 @@
   <img src="https://img.shields.io/badge/noVNC-Enabled-purple">
   <img src="https://img.shields.io/badge/Remote-Access-brightgreen">
 </p>
+## 🎬 noVNC Demo
 
+<p align="center">
+  <a href="docs/video/novnc-demo.mp4">
+    <img src="https://raw.githubusercontent.com/KanotixPinguin/OWRXP-DNX-Waterfall/main/docs/images/waterfall-split.png" width="700">
+  </a>
+</p>
+
+<p align="center">
+  <b>Click to watch the noVNC demo</b>
+</p>
 ---
 
 ## 🔍 Split Mode Preview
