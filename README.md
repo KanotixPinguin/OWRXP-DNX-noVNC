@@ -1,4 +1,30 @@
-![DNX Waterfall](https://img.shields.io/badge/Waterfall-DNX-blue)
+# 🖥️ OWRXP-DNX-noVNC
+
+### OpenWebRX+ with integrated noVNC remote desktop and DNX Waterfall
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/KanotixPinguin/OWRXP-DNX-Waterfall/main/docs/images/waterfall-split.png" width="700">
+</p>
+
+<p align="center">
+  <b>Remote SDR • noVNC • 3D Waterfall • Multi-view system</b>
+</p>
+
+<p align="center">
+  <a href="https://github.com/KanotixPinguin/OWRXP-DNX-Waterfall">
+    <img src="https://img.shields.io/badge/Waterfall-DNX-blue">
+  </a>
+  <img src="https://img.shields.io/badge/noVNC-Enabled-purple">
+  <img src="https://img.shields.io/badge/Remote-Access-brightgreen">
+</p>
+
+---
+
+## 🔍 Split Mode Preview
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/KanotixPinguin/OWRXP-DNX-Waterfall/main/docs/images/waterfall-split.png" width="80%">
+</p>![DNX Waterfall](https://img.shields.io/badge/Waterfall-DNX-blue)
 ![noVNC](https://img.shields.io/badge/noVNC-Enabled-purple)
 ![Remote UI](https://img.shields.io/badge/Remote-Access-brightgreen)# OWRXP-DNX-noVNC
 
